@@ -1,0 +1,6 @@
+flask
+flask_login
+boto3
+os
+requests
+dotenv

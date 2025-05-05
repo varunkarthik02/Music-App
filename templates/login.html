@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Login Page</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='login_style.css') }}">
+</head>
+
+<body>
+    <div class="container">
+        <h2>Login Account</h2>
+
+        {% if error %}
+            <p class="error" id="error-message">{{ error }}</p>
+            <script>
+                // Hide the error message after 3 seconds
+                setTimeout(function() {
+                    const errorMessage = document.getElementById('error-message');
+                    if (errorMessage) {
+                        errorMessage.style.display = 'none';
+                    }
+                }, 3000); // Time in milliseconds
+            </script>
+        {% endif %}
+
+        <form action="/login" method="POST">
+            <div class="form-group">
+                <label for="email">Email:</label>
+                <input type="text" id="email" name="email" placeholder="Enter Email" required>
+            </div>
+
+            <div class="form-group">
+                <label for="password">Password:</label>
+                <input type="password" id="password" name="password" placeholder="Enter Password" required>
+            </div>
+
+            <button type="submit">Login</button>
+            <div class="reg-div">
+                <p>Need an Account?</p>
+                <a href="/register">
+                    <p class="reg-here">Register here</p>
+                </a>
+            </div>
+        </form>
+    </div>
+</body>
+</html>

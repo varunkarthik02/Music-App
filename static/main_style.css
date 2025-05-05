@@ -1,0 +1,114 @@
+/* Reset & common styling */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    background: linear-gradient(to right, #b2b2c1, #8f94fb);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    color: #fff;
+    animation: fadeIn 1s ease-in;
+}
+
+/* Container styling similar to login/register */
+.container {
+    background: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(10px);
+    padding: 40px;
+    border-radius: 20px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+    max-width: 600px; /* bigger width for the main page */
+    width: 100%;
+    text-align: center;
+}
+
+h1, h2 {
+    margin-bottom: 20px;
+    font-size: 2rem;
+    color: rgb(62, 254, 254);
+}
+
+.logout-link {
+    text-decoration: none;
+    color: lime;
+    font-size: 1rem;
+    font-weight: bold;
+}
+.logout-link:hover {
+    color: black;
+}
+
+/* Section wrappers */
+.section {
+    background-color: rgba(0, 0, 0, 0.2);
+    margin: 20px 0;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: left; /* so we can left-align content */
+}
+.section h3 {
+    color: #ffffaa;
+    margin-bottom: 15px;
+}
+
+/* Buttons */
+button {
+    margin-top: 10px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 10px;
+    background: #e20b39;
+    color: #fff;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background 0.3s ease;
+}
+button:hover {
+    background: #ff589b;
+}
+
+/* Form and input styling */
+form {
+    margin-top: 10px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+    color: black;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: none;
+    border-radius: 10px;
+    font-size: 1rem;
+    background: rgba(255, 255, 255, 0.8);
+}
+
+.item {
+    margin-bottom: 15px;
+    padding-bottom: 10px;
+    border-bottom: 1px dashed #888;
+}
+
+.item img {
+    max-width: 100px;
+    display: block;
+    margin: 10px 0;
+}
+
+.flash-message {
+    color: red;
+    margin-bottom: 10px;
+    font-weight: bold;
+}

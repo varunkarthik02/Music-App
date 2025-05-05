@@ -1,0 +1,1100 @@
+{
+    "songs": [
+        {
+            "title": "1904",
+            "artist": "The Tallest Man on Earth",
+            "year": "2012",
+            "album": "There's No Leaving Now",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/TheTallestManOnEarth.jpg",
+            "UID": "1904 - There's No Leaving Now"
+        },
+        {
+            "title": "#40",
+            "artist": "Dave Matthews",
+            "year": "1999",
+            "album": "Listener Supported",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/DaveMatthews.jpg",
+            "UID": "#40 - Listener Supported"
+        },
+        {
+            "title": "40oz to Freedom",
+            "artist": "Sublime",
+            "year": "1996",
+            "album": "40oz. to Freedom",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/Sublime.jpg",
+            "UID": "40oz to Freedom - 40oz. to Freedom"
+        },
+        {
+            "title": "#41",
+            "artist": "Dave Matthews",
+            "year": "1996",
+            "album": "Crash",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/DaveMatthews.jpg",
+            "UID": "#41 - Crash"
+        },
+        {
+            "title": "American Girl",
+            "artist": "Tom Petty",
+            "year": "1977",
+            "album": "Tom Petty and the Heartbreakers",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/TomPetty.jpg",
+            "UID": "American Girl - Tom Petty and the Heartbreakers"
+        },
+        {
+            "title": "American Music",
+            "artist": "Violent Femmes",
+            "year": "1991",
+            "album": "Why Do Birds Sing?",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/ViolentFemmes.jpg",
+            "UID": "American Music - Why Do Birds Sing?"
+        },
+        {
+            "title": "American Pie",
+            "artist": "Don McLean",
+            "year": "1972",
+            "album": "American Pie",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/DonMcLean.jpg",
+            "UID": "American Pie - American Pie"
+        },
+        {
+            "title": "And it Stoned Me",
+            "artist": "Van Morrison",
+            "year": "1970",
+            "album": "Moondance",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/VanMorrison.jpg",
+            "UID": "And it Stoned Me - Moondance"
+        },
+        {
+            "title": "A Sailor's Christmas",
+            "artist": "Jimmy Buffett",
+            "year": "1996",
+            "album": "Christmas Island",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/JimmyBuffett.jpg",
+            "UID": "A Sailor's Christmas - Christmas Island"
+        },
+        {
+            "title": "Badfish",
+            "artist": "Sublime",
+            "year": "1996",
+            "album": "40oz. to Freedom",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/Sublime.jpg",
+            "UID": "Badfish - 40oz. to Freedom"
+        },
+        {
+            "title": "Bad Blood",
+            "artist": "Taylor Swift",
+            "year": "2014",
+            "album": "1989",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/TaylorSwift.jpg",
+            "UID": "Bad Blood - 1989"
+        },
+        {
+            "title": "Bad Blood",
+            "artist": "Kendrick Lamar",
+            "year": "2015",
+            "album": "To Pimp a Butterfly",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/KendrickLamar.jpg",
+            "UID": "Bad Blood - To Pimp a Butterfly"
+        },
+        {
+            "title": "Banana Pancakes",
+            "artist": "Jack Johnson",
+            "year": "2005",
+            "album": "In Between Dreams",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/JackJohnson.jpg",
+            "UID": "Banana Pancakes - In Between Dreams"
+        },
+        {
+            "title": "Barefoot Children",
+            "artist": "Jimmy Buffett",
+            "year": "1995",
+            "album": "Barometer Soup",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/JimmyBuffett.jpg",
+            "UID": "Barefoot Children - Barometer Soup"
+        },
+        {
+            "title": "Big Parade",
+            "artist": "The Lumineers",
+            "year": "2012",
+            "album": "The Lumineers",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/TheLumineers.jpg",
+            "UID": "Big Parade - The Lumineers"
+        },
+        {
+            "title": "Brown Eyed Girl",
+            "artist": "Van Morrison",
+            "year": "1967",
+            "album": "Blowin' Your Mind!",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/VanMorrison.jpg",
+            "UID": "Brown Eyed Girl - Blowin' Your Mind!"
+        },
+        {
+            "title": "Cape Canaveral",
+            "artist": "Conor Oberst",
+            "year": "2008",
+            "album": "Conor Oberst",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/ConorOberst.jpg",
+            "UID": "Cape Canaveral - Conor Oberst"
+        },
+        {
+            "title": "Carry On",
+            "artist": "fun.",
+            "year": "2012",
+            "album": "Some Nights",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/Fun.jpg",
+            "UID": "Carry On - Some Nights"
+        },
+        {
+            "title": "Catch the Wind",
+            "artist": "Donovan",
+            "year": "1965",
+            "album": "What's Bin Did and What's Bin Hid",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/Donovan.jpg",
+            "UID": "Catch the Wind - What's Bin Did and What's Bin Hid"
+        },
+        {
+            "title": "Cat's in the Cradle",
+            "artist": "Harry Chapin",
+            "year": "1974",
+            "album": "Verities & Balderdash",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/HarryChapin.jpg",
+            "UID": "Cat's in the Cradle - Verities & Balderdash"
+        },
+        {
+            "title": "Changes in Latitudes, Changes in Attitudes",
+            "artist": "Jimmy Buffett",
+            "year": "1977",
+            "album": "Changes in Latitudes, Changes in Attitudes",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/JimmyBuffett.jpg",
+            "UID": "Changes in Latitudes, Changes in Attitudes - Changes in Latitudes, Changes in Attitudes"
+        },
+        {
+            "title": "Classy Girls",
+            "artist": "The Lumineers",
+            "year": "2012",
+            "album": "The Lumineers",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/TheLumineers.jpg",
+            "UID": "Classy Girls - The Lumineers"
+        },
+        {
+            "title": "Creep",
+            "artist": "Radiohead",
+            "year": "1993",
+            "album": "Pablo Honey",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/Radiohead.jpg",
+            "UID": "Creep - Pablo Honey"
+        },
+        {
+            "title": "Danny Boy",
+            "artist": "Johnny Cash",
+            "year": "2002",
+            "album": "American IV: The Man Comes Around",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/JohnnyCash.jpg",
+            "UID": "Danny Boy - American IV: The Man Comes Around"
+        },
+        {
+            "title": "Darkness Between the Fireflies",
+            "artist": "Mason Jennings",
+            "year": "1997",
+            "album": "Mason Jennings",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/MasonJennings.jpg",
+            "UID": "Darkness Between the Fireflies - Mason Jennings"
+        },
+        {
+            "title": "Dead Sea",
+            "artist": "The Lumineers",
+            "year": "2012",
+            "album": "The Lumineers",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/TheLumineers.jpg",
+            "UID": "Dead Sea - The Lumineers"
+        },
+        {
+            "title": "Delicate",
+            "artist": "Taylor Swift",
+            "year": "2017",
+            "album": "Reputation",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/TaylorSwift.jpg",
+            "UID": "Delicate - Reputation"
+        },
+        {
+            "title": "Delicate",
+            "artist": "Taylor Swift",
+            "year": "2018",
+            "album": "Reputation (Deluxe)",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/TaylorSwift.jpg",
+            "UID": "Delicate - Reputation (Deluxe)"
+        },
+        {
+            "title": "Distantly in Love",
+            "artist": "Jimmy Buffett",
+            "year": "1983",
+            "album": "One Particular Harbour",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/JimmyBuffett.jpg",
+            "UID": "Distantly in Love - One Particular Harbour"
+        },
+        {
+            "title": "Don't Leave Me (Ne Me Quitte Pas)",
+            "artist": "Regina Spektor",
+            "year": "2012",
+            "album": "What We Saw from the Cheap Seats",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/ReginaSpektor.jpg",
+            "UID": "Don't Leave Me (Ne Me Quitte Pas) - What We Saw from the Cheap Seats"
+        },
+        {
+            "title": "Don't Look Back in Anger",
+            "artist": "Oasis",
+            "year": "1996",
+            "album": "(What's the Story) Morning Glory?",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/Oasis.jpg",
+            "UID": "Don't Look Back in Anger - (What's the Story) Morning Glory?"
+        },
+        {
+            "title": "Don't Stop Believin'",
+            "artist": "Journey",
+            "year": "1981",
+            "album": "Escape",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/Journey.jpg",
+            "UID": "Don't Stop Believin' - Escape"
+        },
+        {
+            "title": "Doomsday",
+            "artist": "Elvis Perkins",
+            "year": "2009",
+            "album": "Doomsday",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/ElvisPerkins.jpg",
+            "UID": "Doomsday - Doomsday"
+        },
+        {
+            "title": "Do You Remember",
+            "artist": "Jack Johnson",
+            "year": "2005",
+            "album": "In Between Dreams",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/JackJohnson.jpg",
+            "UID": "Do You Remember - In Between Dreams"
+        },
+        {
+            "title": "Drink the Water",
+            "artist": "Jack Johnson",
+            "year": "2001",
+            "album": "Brushfire Fairytales",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/JackJohnson.jpg",
+            "UID": "Drink the Water - Brushfire Fairytales"
+        },
+        {
+            "title": "Emmylou",
+            "artist": "First Aid Kit",
+            "year": "2012",
+            "album": "The Lion's Roar",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/FirstAidKit.jpg",
+            "UID": "Emmylou - The Lion's Roar"
+        },
+        {
+            "title": "Fall Line",
+            "artist": "Jack Johnson",
+            "year": "2003",
+            "album": "On and On",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/JackJohnson.jpg",
+            "UID": "Fall Line - On and On"
+        },
+        {
+            "title": "Father and Son",
+            "artist": "Cat Stevens",
+            "year": "1970",
+            "album": "Tea for the Tillerman",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/CatStevens.jpg",
+            "UID": "Father and Son - Tea for the Tillerman"
+        },
+        {
+            "title": "Flake",
+            "artist": "Jack Johnson",
+            "year": "2001",
+            "album": "Brushfire Fairytales",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/JackJohnson.jpg",
+            "UID": "Flake - Brushfire Fairytales"
+        },
+        {
+            "title": "Flapper Girl",
+            "artist": "The Lumineers",
+            "year": "2012",
+            "album": "The Lumineers",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/TheLumineers.jpg",
+            "UID": "Flapper Girl - The Lumineers"
+        },
+        {
+            "title": "Flowers in Your Hair",
+            "artist": "The Lumineers",
+            "year": "2012",
+            "album": "The Lumineers",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/TheLumineers.jpg",
+            "UID": "Flowers in Your Hair - The Lumineers"
+        },
+        {
+            "title": "Folsom Prison Blues",
+            "artist": "Johnny Cash",
+            "year": "1957",
+            "album": "With His Hot and Blue Guitar",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/JohnnyCash.jpg",
+            "UID": "Folsom Prison Blues - With His Hot and Blue Guitar"
+        },
+        {
+            "title": "Free Fallin'",
+            "artist": "Tom Petty",
+            "year": "1989",
+            "album": "Full Moon Fever",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/TomPetty.jpg",
+            "UID": "Free Fallin' - Full Moon Fever"
+        },
+        {
+            "title": "Furr",
+            "artist": "Blitzen Trapper",
+            "year": "2008",
+            "album": "Furr",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/BlitzenTrapper.jpg",
+            "UID": "Furr - Furr"
+        },
+        {
+            "title": "Get Well Cards",
+            "artist": "Conor Oberst",
+            "year": "2008",
+            "album": "Conor Oberst",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/ConorOberst.jpg",
+            "UID": "Get Well Cards - Conor Oberst"
+        },
+        {
+            "title": "Gulf Coast Highway",
+            "artist": "Emmylou Harris",
+            "year": "2000",
+            "album": "Red Dirt Girl",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/EmmylouHarris.jpg",
+            "UID": "Gulf Coast Highway - Red Dirt Girl"
+        },
+        {
+            "title": "Half Light I",
+            "artist": "Arcade Fire",
+            "year": "2010",
+            "album": "The Suburbs",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/ArcadeFire.jpg",
+            "UID": "Half Light I - The Suburbs"
+        },
+        {
+            "title": "Half Light II (No Celebration)",
+            "artist": "Arcade Fire",
+            "year": "2010",
+            "album": "The Suburbs",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/ArcadeFire.jpg",
+            "UID": "Half Light II (No Celebration) - The Suburbs"
+        },
+        {
+            "title": "Harvest",
+            "artist": "Neil Young",
+            "year": "1972",
+            "album": "Harvest",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/NeilYoung.jpg",
+            "UID": "Harvest - Harvest"
+        },
+        {
+            "title": "Heart of Gold",
+            "artist": "Neil Young",
+            "year": "1972",
+            "album": "Harvest",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/NeilYoung.jpg",
+            "UID": "Heart of Gold - Harvest"
+        },
+        {
+            "title": "Here I Go Again",
+            "artist": "Whitesnake",
+            "year": "1982",
+            "album": "Saints & Sinners",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/Whitesnake.jpg",
+            "UID": "Here I Go Again - Saints & Sinners"
+        },
+        {
+            "title": "Hey Jealousy",
+            "artist": "Gin Blossoms",
+            "year": "1992",
+            "album": "New Miserable Experience",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/GinBlossoms.jpg",
+            "UID": "Hey Jealousy - New Miserable Experience"
+        },
+        {
+            "title": "Hey Soul Sister",
+            "artist": "Train",
+            "year": "2009",
+            "album": "Save Me, San Francisco",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/Train.jpg",
+            "UID": "Hey Soul Sister - Save Me, San Francisco"
+        },
+        {
+            "title": "High and Dry",
+            "artist": "Radiohead",
+            "year": "1995",
+            "album": "The Bends",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/Radiohead.jpg",
+            "UID": "High and Dry - The Bends"
+        },
+        {
+            "title": "Ho Hey",
+            "artist": "The Lumineers",
+            "year": "2012",
+            "album": "The Lumineers",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/TheLumineers.jpg",
+            "UID": "Ho Hey - The Lumineers"
+        },
+        {
+            "title": "Hollywood Forever Cemetery Sings",
+            "artist": "Father John Misty",
+            "year": "2012",
+            "album": "Fear Fun",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/FatherJohnMisty.jpg",
+            "UID": "Hollywood Forever Cemetery Sings - Fear Fun"
+        },
+        {
+            "title": "Home",
+            "artist": "Edward Sharpe & The Magnetic Zeros",
+            "year": "2009",
+            "album": "Up from Below",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/EdwardSharpeAndTheMagneticZeroes.jpg",
+            "UID": "Home - Up from Below"
+        },
+        {
+            "title": "Honey Do",
+            "artist": "Jimmy Buffett",
+            "year": "1983",
+            "album": "One Particular Harbour",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/JimmyBuffett.jpg",
+            "UID": "Honey Do - One Particular Harbour"
+        },
+        {
+            "title": "Hospitals and Jails",
+            "artist": "Mason Jennings",
+            "year": "2002",
+            "album": "Century Spring",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/MasonJennings.jpg",
+            "UID": "Hospitals and Jails - Century Spring"
+        },
+        {
+            "title": "Hotel California",
+            "artist": "The Eagles",
+            "year": "1977",
+            "album": "Hotel California",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/TheEagles.jpg",
+            "UID": "Hotel California - Hotel California"
+        },
+        {
+            "title": "Hotel Yorba",
+            "artist": "The White Stripes",
+            "year": "2001",
+            "album": "White Blood Cells",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/TheWhiteStripes.jpg",
+            "UID": "Hotel Yorba - White Blood Cells"
+        },
+        {
+            "title": "I Feel Home",
+            "artist": "OAR",
+            "year": "1999",
+            "album": "Risen",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/OAR.jpg",
+            "UID": "I Feel Home - Risen"
+        },
+        {
+            "title": "I Knew You Were Trouble",
+            "artist": "Taylor Swift",
+            "year": "2012",
+            "album": "Red",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/TaylorSwift.jpg",
+            "UID": "I Knew You Were Trouble - Red"
+        },
+        {
+            "title": "I'm Writing a Novel",
+            "artist": "Father John Misty",
+            "year": "2012",
+            "album": "Fear Fun",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/FatherJohnMisty.jpg",
+            "UID": "I'm Writing a Novel - Fear Fun"
+        },
+        {
+            "title": "Island in the Sun",
+            "artist": "Weezer",
+            "year": "2001",
+            "album": "Weezer (The Green Album)",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/Weezer.jpg",
+            "UID": "Island in the Sun - Weezer (The Green Album)"
+        },
+        {
+            "title": "I Won't Give Up",
+            "artist": "Jason Mraz",
+            "year": "2012",
+            "album": "Love is a Four Letter Word",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/JasonMraz.jpg",
+            "UID": "I Won't Give Up - Love is a Four Letter Word"
+        },
+        {
+            "title": "I Won't Give Up",
+            "artist": "Jason Mraz",
+            "year": "2021",
+            "album": "Lalalalovesongs (Re:2021)",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/JasonMraz.jpg",
+            "UID": "I Won't Give Up - Lalalalovesongs (Re:2021)"
+        },
+        {
+            "title": "Jack & Diane",
+            "artist": "John Mellencamp",
+            "year": "1982",
+            "album": "American Fool",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/JohnMellencamp.jpg",
+            "UID": "Jack & Diane - American Fool"
+        },
+        {
+            "title": "Karma Police",
+            "artist": "Radiohead",
+            "year": "1997",
+            "album": "OK Computer",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/Radiohead.jpg",
+            "UID": "Karma Police - OK Computer"
+        },
+        {
+            "title": "King of Spain",
+            "artist": "The Tallest Man on Earth",
+            "year": "2010",
+            "album": "The Wild Hunt",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/TheTallestManOnEarth.jpg",
+            "UID": "King of Spain - The Wild Hunt"
+        },
+        {
+            "title": "King of the World",
+            "artist": "First Aid Kit",
+            "year": "2012",
+            "album": "The Lion's Roar",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/FirstAidKit.jpg",
+            "UID": "King of the World - The Lion's Roar"
+        },
+        {
+            "title": "Lean On Me",
+            "artist": "Bill Withers",
+            "year": "1972",
+            "album": "Still Bill",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/BillWithers.jpg",
+            "UID": "Lean On Me - Still Bill"
+        },
+        {
+            "title": "Little Talks",
+            "artist": "Of Monsters and Men",
+            "year": "2012",
+            "album": "My Head Is an Animal",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/OfMonstersAndMen.jpg",
+            "UID": "Little Talks - My Head Is an Animal"
+        },
+        {
+            "title": "Live and Die",
+            "artist": "The Avett Brothers",
+            "year": "2012",
+            "album": "The Carpenter",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/AvettBrothers.jpg",
+            "UID": "Live and Die - The Carpenter"
+        },
+        {
+            "title": "Lola",
+            "artist": "The Kinks",
+            "year": "1970",
+            "album": "Lola Versus Powerman and the Moneygoround, Part One",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/Kinks.jpg",
+            "UID": "Lola - Lola Versus Powerman and the Moneygoround, Part One"
+        },
+        {
+            "title": "Lonesome Town",
+            "artist": "Ricky Nelson",
+            "year": "1958",
+            "album": "Ricky Sings Again",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/RickyNelson.jpg",
+            "UID": "Lonesome Town - Ricky Sings Again"
+        },
+        {
+            "title": "Love in the Library",
+            "artist": "Jimmy Buffett",
+            "year": "1994",
+            "album": "Fruitcakes",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/JimmyBuffett.jpg",
+            "UID": "Love in the Library - Fruitcakes"
+        },
+        {
+            "title": "Love Story",
+            "artist": "Taylor Swift",
+            "year": "2008",
+            "album": "Fearless",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/TaylorSwift.jpg",
+            "UID": "Love Story - Fearless"
+        },
+        {
+            "title": "Margaritaville",
+            "artist": "Jimmy Buffett",
+            "year": "1977",
+            "album": "Changes in Latitudes, Changes in Attitudes",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/JimmyBuffett.jpg",
+            "UID": "Margaritaville - Changes in Latitudes, Changes in Attitudes"
+        },
+        {
+            "title": "Me and Julio Down by the Schoolyard",
+            "artist": "Paul Simon",
+            "year": "1972",
+            "album": "Paul Simon",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/PaulSimon.jpg",
+            "UID": "Me and Julio Down by the Schoolyard - Paul Simon"
+        },
+        {
+            "title": "Migration",
+            "artist": "Jimmy Buffett",
+            "year": "1974",
+            "album": "A1A",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/JimmyBuffett.jpg",
+            "UID": "Migration - A1A"
+        },
+        {
+            "title": "Moonshadow",
+            "artist": "Cat Stevens",
+            "year": "1971",
+            "album": "Teaser and the Firecat",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/CatStevens.jpg",
+            "UID": "Moonshadow - Teaser and the Firecat"
+        },
+        {
+            "title": "Mudfootball",
+            "artist": "Jack Johnson",
+            "year": "2001",
+            "album": "Brushfire Fairytales",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/JackJohnson.jpg",
+            "UID": "Mudfootball - Brushfire Fairytales"
+        },
+        {
+            "title": "My Antonia",
+            "artist": "Emmylou Harris",
+            "year": "2000",
+            "album": "Red Dirt Girl",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/EmmylouHarris.jpg",
+            "UID": "My Antonia - Red Dirt Girl"
+        },
+        {
+            "title": "New Realization",
+            "artist": "Sublime",
+            "year": "1996",
+            "album": "Sublime",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/Sublime.jpg",
+            "UID": "New Realization - Sublime"
+        },
+        {
+            "title": "No Surprises",
+            "artist": "Radiohead",
+            "year": "1997",
+            "album": "OK Computer",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/Radiohead.jpg",
+            "UID": "No Surprises - OK Computer"
+        },
+        {
+            "title": "Nothing",
+            "artist": "Mason Jennings",
+            "year": "1997",
+            "album": "Mason Jennings",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/MasonJennings.jpg",
+            "UID": "Nothing - Mason Jennings"
+        },
+        {
+            "title": "Nothing Else Matters",
+            "artist": "Metallica",
+            "year": "1992",
+            "album": "Metallica (The Black Album)",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/Metallica.jpg",
+            "UID": "Nothing Else Matters - Metallica (The Black Album)"
+        },
+        {
+            "title": "Only Son of the Ladiesman",
+            "artist": "Father John Misty",
+            "year": "2012",
+            "album": "Fear Fun",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/FatherJohnMisty.jpg",
+            "UID": "Only Son of the Ladiesman - Fear Fun"
+        },
+        {
+            "title": "Out on the Weekend",
+            "artist": "Neil Young",
+            "year": "1972",
+            "album": "Harvest",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/NeilYoung.jpg",
+            "UID": "Out on the Weekend - Harvest"
+        },
+        {
+            "title": "Party in the USA",
+            "artist": "Miley Cyrus",
+            "year": "2009",
+            "album": "The Time of Our Lives",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/MileyCyrus.jpg",
+            "UID": "Party in the USA - The Time of Our Lives"
+        },
+        {
+            "title": "Patience",
+            "artist": "Guns N' Roses",
+            "year": "1989",
+            "album": "G N' R Lies",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/GunsNRoses.jpg",
+            "UID": "Patience - G N' R Lies"
+        },
+        {
+            "title": "Redemption Song",
+            "artist": "Bob Marley",
+            "year": "1980",
+            "album": "Uprising",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/BobMarley.jpg",
+            "UID": "Redemption Song - Uprising"
+        },
+        {
+            "title": "Rivers of Babylon",
+            "artist": "Sublime",
+            "year": "1998",
+            "album": "Acoustic: Bradley Nowell & Friends",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/Sublime.jpg",
+            "UID": "Rivers of Babylon - Acoustic: Bradley Nowell & Friends"
+        },
+        {
+            "title": "Rivers of Babylon",
+            "artist": "The Melodians",
+            "year": "1970",
+            "album": "Rivers of Babylon",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/TheMelodians.jpg",
+            "UID": "Rivers of Babylon - Rivers of Babylon"
+        },
+        {
+            "title": "Rivers of Babylon",
+            "artist": "The Melodians",
+            "year": "2003",
+            "album": "Rivers of Babylon (Re-release)",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/TheMelodians.jpg",
+            "UID": "Rivers of Babylon - Rivers of Babylon (Re-release)"
+        },
+        {
+            "title": "Rocket Man",
+            "artist": "Elton John",
+            "year": "1972",
+            "album": "Honky Ch\u00c3\u00a2teau",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/EltonJohn.jpg",
+            "UID": "Rocket Man - Honky Ch\u00c3\u00a2teau"
+        },
+        {
+            "title": "Rodeo Clowns",
+            "artist": "Jack Johnson",
+            "year": "2003",
+            "album": "On and On",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/JackJohnson.jpg",
+            "UID": "Rodeo Clowns - On and On"
+        },
+        {
+            "title": "Send My Fond Regards to Lonelyville",
+            "artist": "Elvis Perkins",
+            "year": "2009",
+            "album": "Elvis Perkins in Dearland",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/ElvisPerkins.jpg",
+            "UID": "Send My Fond Regards to Lonelyville - Elvis Perkins in Dearland"
+        },
+        {
+            "title": "Sentimental Heart",
+            "artist": "She & Him",
+            "year": "2008",
+            "album": "Volume One",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/SheAndHim.jpg",
+            "UID": "Sentimental Heart - Volume One"
+        },
+        {
+            "title": "Shelter from the Storm",
+            "artist": "Bob Dylan",
+            "year": "1975",
+            "album": "Blood on the Tracks",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/BobDylan.jpg",
+            "UID": "Shelter from the Storm - Blood on the Tracks"
+        },
+        {
+            "title": "Some Nights",
+            "artist": "fun.",
+            "year": "2012",
+            "album": "Some Nights",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/Fun.jpg",
+            "UID": "Some Nights - Some Nights"
+        },
+        {
+            "title": "Somewhere Only We Know",
+            "artist": "Keane",
+            "year": "2004",
+            "album": "Hopes and Fears",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/Keane.jpg",
+            "UID": "Somewhere Only We Know - Hopes and Fears"
+        },
+        {
+            "title": "Space Oddity",
+            "artist": "David Bowie",
+            "year": "1969",
+            "album": "David Bowie (Space Oddity)",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/DavidBowie.jpg",
+            "UID": "Space Oddity - David Bowie (Space Oddity)"
+        },
+        {
+            "title": "Stay or Leave",
+            "artist": "Dave Matthews",
+            "year": "2003",
+            "album": "Some Devil",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/DaveMatthews.jpg",
+            "UID": "Stay or Leave - Some Devil"
+        },
+        {
+            "title": "Stubborn Love",
+            "artist": "The Lumineers",
+            "year": "2012",
+            "album": "The Lumineers",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/TheLumineers.jpg",
+            "UID": "Stubborn Love - The Lumineers"
+        },
+        {
+            "title": "Stuck in the Middle With You",
+            "artist": "Stealers Wheel",
+            "year": "1972",
+            "album": "Stealers Wheel",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/StealersWheel.jpg",
+            "UID": "Stuck in the Middle With You - Stealers Wheel"
+        },
+        {
+            "title": "Submarines",
+            "artist": "The Lumineers",
+            "year": "2012",
+            "album": "The Lumineers",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/TheLumineers.jpg",
+            "UID": "Submarines - The Lumineers"
+        },
+        {
+            "title": "Sugar Mountain",
+            "artist": "Neil Young",
+            "year": "1977",
+            "album": "Decade",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/NeilYoung.jpg",
+            "UID": "Sugar Mountain - Decade"
+        },
+        {
+            "title": "Summer of '69",
+            "artist": "Bryan Adams",
+            "year": "1984",
+            "album": "Reckless",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/BryanAdams.jpg",
+            "UID": "Summer of '69 - Reckless"
+        },
+        {
+            "title": "Sweet Home Alabama",
+            "artist": "Lynyrd Skynyrd",
+            "year": "1974",
+            "album": "Second Helping",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/LynyrdSkynyrd.jpg",
+            "UID": "Sweet Home Alabama - Second Helping"
+        },
+        {
+            "title": "Tangled Up in Blue",
+            "artist": "Bob Dylan",
+            "year": "1975",
+            "album": "Blood on the Tracks",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/BobDylan.jpg",
+            "UID": "Tangled Up in Blue - Blood on the Tracks"
+        },
+        {
+            "title": "The Drugs Don't Work",
+            "artist": "Ben Harper",
+            "year": "2001",
+            "album": "Live from Mars",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/BenHarper.jpg",
+            "UID": "The Drugs Don't Work - Live from Mars"
+        },
+        {
+            "title": "The General",
+            "artist": "Dispatch",
+            "year": "2000",
+            "album": "Bang Bang",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/Dispatch.jpg",
+            "UID": "The General - Bang Bang"
+        },
+        {
+            "title": "The Lion's Roar",
+            "artist": "First Aid Kit",
+            "year": "2012",
+            "album": "The Lion's Roar",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/FirstAidKit.jpg",
+            "UID": "The Lion's Roar - The Lion's Roar"
+        },
+        {
+            "title": "The Man in Me",
+            "artist": "Bob Dylan",
+            "year": "1970",
+            "album": "New Morning",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/BobDylan.jpg",
+            "UID": "The Man in Me - New Morning"
+        },
+        {
+            "title": "The Mother We Share",
+            "artist": "Chvrches",
+            "year": "2013",
+            "album": "The Bones of What You Believe",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/Chvrches.jpg",
+            "UID": "The Mother We Share - The Bones of What You Believe"
+        },
+        {
+            "title": "The Needle and the Damage Done",
+            "artist": "Neil Young",
+            "year": "1972",
+            "album": "Harvest",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/NeilYoung.jpg",
+            "UID": "The Needle and the Damage Done - Harvest"
+        },
+        {
+            "title": "The Needle and the Damage Done",
+            "artist": "The Pretenders",
+            "year": "1995",
+            "album": "The Isle of View",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/ThePretenders.jpg",
+            "UID": "The Needle and the Damage Done - The Isle of View"
+        },
+        {
+            "title": "The Weather is Here, Wish You Were Beautiful",
+            "artist": "Jimmy Buffett",
+            "year": "1981",
+            "album": "Coconut Telegraph",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/JimmyBuffett.jpg",
+            "UID": "The Weather is Here, Wish You Were Beautiful - Coconut Telegraph"
+        },
+        {
+            "title": "The Weight",
+            "artist": "The Band",
+            "year": "1968",
+            "album": "Music from Big Pink",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/TheBand.jpg",
+            "UID": "The Weight - Music from Big Pink"
+        },
+        {
+            "title": "Tin Cup Chalice",
+            "artist": "Jimmy Buffett",
+            "year": "1974",
+            "album": "A1A",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/JimmyBuffett.jpg",
+            "UID": "Tin Cup Chalice - A1A"
+        },
+        {
+            "title": "Tiny Dancer",
+            "artist": "Elton John",
+            "year": "1971",
+            "album": "Madman Across the Water",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/EltonJohn.jpg",
+            "UID": "Tiny Dancer - Madman Across the Water"
+        },
+        {
+            "title": "Trying to Reason with Hurricane Season",
+            "artist": "Jimmy Buffett",
+            "year": "1974",
+            "album": "A1A",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/JimmyBuffett.jpg",
+            "UID": "Trying to Reason with Hurricane Season - A1A"
+        },
+        {
+            "title": "Under the Milky Way",
+            "artist": "The Church",
+            "year": "1988",
+            "album": "Starfish",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/TheChurch.jpg",
+            "UID": "Under the Milky Way - Starfish"
+        },
+        {
+            "title": "Viva La Vida",
+            "artist": "Coldplay",
+            "year": "2008",
+            "album": "Viva la Vida or Death and All His Friends",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/Coldplay.jpg",
+            "UID": "Viva La Vida - Viva la Vida or Death and All His Friends"
+        },
+        {
+            "title": "Watching the Wheels",
+            "artist": "John Lennon",
+            "year": "1981",
+            "album": "Double Fantasy",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/JohnLennon.jpg",
+            "UID": "Watching the Wheels - Double Fantasy"
+        },
+        {
+            "title": "Way Over Yonder in the Minor Key",
+            "artist": "Billy Bragg & Wilco",
+            "year": "1998",
+            "album": "Mermaid Avenue",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/BillyBraggWilco.jpg",
+            "UID": "Way Over Yonder in the Minor Key - Mermaid Avenue"
+        },
+        {
+            "title": "We Are Never Ever Getting Back Together",
+            "artist": "Taylor Swift",
+            "year": "2012",
+            "album": "Red",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/TaylorSwift.jpg",
+            "UID": "We Are Never Ever Getting Back Together - Red"
+        },
+        {
+            "title": "We Are Never Ever Getting Back Together",
+            "artist": "Taylor Swift",
+            "year": "2013",
+            "album": "Red (Deluxe Edition)",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/TaylorSwift.jpg",
+            "UID": "We Are Never Ever Getting Back Together - Red (Deluxe Edition)"
+        },
+        {
+            "title": "We're Going To Be Friends",
+            "artist": "The White Stripes",
+            "year": "2001",
+            "album": "White Blood Cells",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/TheWhiteStripes.jpg",
+            "UID": "We're Going To Be Friends - White Blood Cells"
+        },
+        {
+            "title": "What I Got",
+            "artist": "Sublime",
+            "year": "1996",
+            "album": "Sublime",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/Sublime.jpg",
+            "UID": "What I Got - Sublime"
+        },
+        {
+            "title": "Wind and Walls",
+            "artist": "The Tallest Man on Earth",
+            "year": "2012",
+            "album": "There's No Leaving Now",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/TheTallestManOnEarth.jpg",
+            "UID": "Wind and Walls - There's No Leaving Now"
+        },
+        {
+            "title": "With a Little Help From My Friends",
+            "artist": "The Beatles",
+            "year": "1967",
+            "album": "Sgt. Pepper's Lonely Hearts Club Band",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/TheBeatles.jpg",
+            "UID": "With a Little Help From My Friends - Sgt. Pepper's Lonely Hearts Club Band"
+        },
+        {
+            "title": "Ya Hey",
+            "artist": "Vampire Weekend",
+            "year": "2013",
+            "album": "Modern Vampires of the City",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/VampireWeekend.jpg",
+            "UID": "Ya Hey - Modern Vampires of the City"
+        },
+        {
+            "title": "You Belong With Me",
+            "artist": "Taylor Swift",
+            "year": "2008",
+            "album": "Fearless",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/TaylorSwift.jpg",
+            "UID": "You Belong With Me - Fearless"
+        },
+        {
+            "title": "You Love Me",
+            "artist": "DeVotchKa",
+            "year": "2004",
+            "album": "How It Ends",
+            "img_url": "https://raw.githubusercontent.com/YingZhang2015/cc/main/DeVotchKa.jpg",
+            "UID": "You Love Me - How It Ends"
+        }
+    ]
+}
